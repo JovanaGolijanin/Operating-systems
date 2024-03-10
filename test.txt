@@ -1,0 +1,22 @@
+a.out
+Desktop
+Documents
+Downloads
+Music
+OSLAB
+Pictures
+pipe1
+pipe1.c
+pipe2
+pipe2.c
+pipe3
+pipe3.c
+PlayOnLinux's virtual drives
+Public
+RM_I_kol_2013.pdf
+RM_I_kol_2015.pdf
+RM_I_kol_2016.pdf
+RM_I_kol_2017.pdf
+Templates
+test.txt
+Videos
